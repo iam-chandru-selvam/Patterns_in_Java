@@ -1,5 +1,3 @@
-package Patterns;
-
 import java.util.Scanner;
 public class Pyramid {
     public static void main(String[] args) {
@@ -17,3 +15,4 @@ public class Pyramid {
         }
     }
 }
+
