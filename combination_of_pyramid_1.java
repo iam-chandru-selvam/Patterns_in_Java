@@ -1,4 +1,3 @@
-package Patterns;
 
 import java.util.Scanner;
 public class combination_of_pyramid_1 {
@@ -26,3 +25,4 @@ public class combination_of_pyramid_1 {
         }
     }
 }
+
