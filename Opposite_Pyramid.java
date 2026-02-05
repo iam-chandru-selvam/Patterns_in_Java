@@ -1,4 +1,3 @@
-package Patterns;
 
 import java.util.Scanner;
 public class Opposite_Pyramid {
@@ -17,3 +16,4 @@ public class Opposite_Pyramid {
         }
     }
 }
+
