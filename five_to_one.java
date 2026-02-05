@@ -1,4 +1,3 @@
-package Patterns;
 
 import java.util.Scanner;
 public class five_to_one {
@@ -14,3 +13,4 @@ public class five_to_one {
         }
     }
 }
+
